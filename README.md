@@ -1,2 +1,2 @@
-# codejam
-My submissions for Google CodeJam
+# Google Code Jam
+My submissions for code jam rounds
